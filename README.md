@@ -10,3 +10,11 @@ Za otvaranje:
 4. F5 (spremiti datoteku ako je potrebno)
 
 Nisam ja kriv ako pretjerate sa minama.
+
+U originalnom minesweeperu su postojale tri razine:
+
+Begginer: Visina - 9, Širina - 9, Mine - 10
+
+Intermediate: Visina - 16, Širina - 16, Mine - 40
+
+Expert: Visina - 16, Širina - 30, Mine - 99
